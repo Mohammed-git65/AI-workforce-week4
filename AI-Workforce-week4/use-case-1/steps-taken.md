@@ -25,16 +25,16 @@ The Agent Builder will open on the Configure tab.
 In the Name field, enter a clear and descriptive name for your agent.
 
 
-<img width="836" height="219" alt="image" src="https://github.com/user-attachments/assets/257ce3ea-8905-4a6c-8075-ada8e6486605" />
+<img width="832" height="166" alt="image" src="https://github.com/user-attachments/assets/433a0f7c-5083-4482-afcc-d1e20d922a74" />
+
 
 
 
 In the Description section, provide a short summary explaining the purpose of the agent and what it is designed to do.
 
-[Insert Screenshot: Description field example]
-Under Instructions, define how the agent should behave, respond to users, and handle tasks or questions.
+<img width="831" height="365" alt="image" src="https://github.com/user-attachments/assets/60708418-2d2c-40bd-90f9-661b60a9c795" />
 
-<img width="836" height="572" alt="image" src="https://github.com/user-attachments/assets/4a5451c9-c0d4-4cf2-ac92-0e987341ef85" />
+Under Instructions, define how the agent should behave, respond to users, and handle tasks or questions.
 
 <img width="794" height="348" alt="image" src="https://github.com/user-attachments/assets/863454d8-2286-41b1-a49a-ec8f72bc7664" />
 
