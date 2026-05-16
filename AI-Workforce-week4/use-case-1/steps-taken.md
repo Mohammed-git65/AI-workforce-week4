@@ -25,22 +25,24 @@ The Agent Builder will open on the Configure tab.
 In the Name field, enter a clear and descriptive name for your agent.
 
 
-<img width="832" height="166" alt="image" src="https://github.com/user-attachments/assets/433a0f7c-5083-4482-afcc-d1e20d922a74" />
-
+<img width="1355" height="626" alt="image" src="https://github.com/user-attachments/assets/de5187f9-6225-4335-ac35-01082eca044b" />
 
 
 
 In the Description section, provide a short summary explaining the purpose of the agent and what it is designed to do.
 
-<img width="831" height="365" alt="image" src="https://github.com/user-attachments/assets/60708418-2d2c-40bd-90f9-661b60a9c795" />
+<img width="1358" height="624" alt="image" src="https://github.com/user-attachments/assets/3e179252-f7c3-4300-b689-5fdcdc1de3d0" />
+
+
 
 Under Instructions, define how the agent should behave, respond to users, and handle tasks or questions.
 
-<img width="794" height="348" alt="image" src="https://github.com/user-attachments/assets/863454d8-2286-41b1-a49a-ec8f72bc7664" />
+<img width="797" height="360" alt="image" src="https://github.com/user-attachments/assets/18370059-c6e6-464c-b05e-4a396ce95a21" />
 
 
 Configure the Prompts section by adding example prompts
 
-<img width="829" height="339" alt="image" src="https://github.com/user-attachments/assets/bad20d67-dbc8-469b-a6dc-46a11b6a895a" />
+<img width="833" height="394" alt="image" src="https://github.com/user-attachments/assets/226facfc-1f3a-4f53-8469-2e0c59e28725" />
+
 
 Review all configurations and save or publish the agent
